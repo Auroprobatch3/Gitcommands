@@ -1,3 +1,5 @@
+All GIT Commands
+
 git init - Initializes a new Git repository in the current directory.
 
 git clone <repository> - Clones a remote Git repository to your local machine.
