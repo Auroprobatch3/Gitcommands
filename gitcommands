@@ -25,3 +25,6 @@ git diff - Shows the differences between the current state of the repository and
 git remote - Shows the list of remote repositories that the local repository is connected to.
 
 git stash - Temporarily saves the current changes in a stash, so they can be applied later.
+
+
+Add some more commands please
