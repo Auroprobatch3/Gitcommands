@@ -3,4 +3,4 @@ for i in range(20):
         print("Even")
     else :
         print("ODD")
-        
+Thappu raa puka        
